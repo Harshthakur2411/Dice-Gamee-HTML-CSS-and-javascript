@@ -1,0 +1,42 @@
+body{
+    background-image: url(closeup-red-dice-rolling-red-surface-with-bokeh-lights_1282444-123158.jpg);
+    
+}
+h1{
+    font-family: "Ysabeau SC", serif;
+    font-optical-sizing: auto;
+    font-weight: 25px;
+    font-style: normal;
+    font-size: 70px;
+    text-align: center;
+}
+.container{
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    width: 70%;
+    background-color: transparent;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 20px;
+
+    
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+p{
+    font-size: 2rem;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    width: 80%;
+}
+footer{
+    margin: 5%;
+    color: aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
